@@ -17,3 +17,7 @@ You can run the script directly from your terminal. Provide two numbers after th
 **Syntax:**
 ```bash or Windows Terminal
 python randomgame.py <start_number> <end_number>
+
+## Example (Guessing between 1 and 50) ##
+DOS
+python randomgame.py 1 50
